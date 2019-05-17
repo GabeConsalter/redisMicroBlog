@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GabeConsalter/redisMicroBlog/issues"
   },
-  "homepage": "https://github.com/GabeConsalter/redisMicroBlog#readme"
+  "homepage": "https://github.com/GabeConsalter/redisMicroBlog#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
