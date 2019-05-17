@@ -1,0 +1,19 @@
+{
+  "name": "redismicroblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeConsalter/redisMicroBlog.git"
+  },
+  "author": "GabeConsalter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeConsalter/redisMicroBlog/issues"
+  },
+  "homepage": "https://github.com/GabeConsalter/redisMicroBlog#readme"
+}
